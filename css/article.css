@@ -22,7 +22,7 @@ article .container .row .video-container embed {
 }
 article .container .row blockquote {
   font-style: italic;
-  font-family: font-serif;
+  font-family: 'Fira Code','ZCOOL KuaiLe',font-serif;
   font-size: 1.2em;
   padding: 0 30px 15px;
   text-align: center;
@@ -65,7 +65,7 @@ figure.highlight {
 }
 figure.highlight figcaption {
   color: color-meta;
-  font-family: font-mono;
+  font-family: 'Fira Code','ZCOOL KuaiLe',font-mono;
   margin-bottom: 5px;
   text-shadow: 0 0 1px #fff;
 }
